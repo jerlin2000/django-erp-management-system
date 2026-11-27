@@ -1,0 +1,50 @@
+msgid ""
+msgstr "Language: kn\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "ಭಾಷೆ"
+
+msgid "Apply"
+msgstr "ಅನ್ವಯಿಸಿ"
+
+msgid "ERP Management System"
+msgstr "ERP ನಿರ್ವಹಣಾ ವ್ಯವಸ್ಥೆ"
+
+msgid "Inventory Management Dashboard"
+msgstr "ದಾಸ್ತಾನು ನಿರ್ವಹಣಾ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್"
+
+msgid "Admin Panel"
+msgstr "ನಿರ್ವಾಹಕ ಫಲಕ"
+
+msgid "Total Products"
+msgstr "ಒಟ್ಟು ಉತ್ಪನ್ನಗಳು"
+
+msgid "System Status"
+msgstr "ವ್ಯವಸ್ಥೆಯ ಸ್ಥಿತಿ"
+
+msgid "Online"
+msgstr "ಆನ್‌ಲೈನ್"
+
+msgid "Inventory Overview"
+msgstr "ದಾಸ್ತಾನು ಅವಲೋಕನ"
+
+msgid "Product"
+msgstr "ಉತ್ಪನ್ನ"
+
+msgid "Stock"
+msgstr "ದಾಸ್ತಾನು"
+
+msgid "Status"
+msgstr "ಸ್ಥಿತಿ"
+
+msgid "In Stock"
+msgstr "ದಾಸ್ತಾನಿನಲ್ಲಿದೆ"
+
+msgid "Low Stock"
+msgstr "ಕಡಿಮೆ ದಾಸ್ತಾನು"
+
+msgid "Out of Stock"
+msgstr "ದಾಸ್ತಾನಿಲ್ಲ"
+
+msgid "No products available"
+msgstr "ಯಾವುದೇ ಉತ್ಪನ್ನಗಳು ಲಭ್ಯವಿಲ್ಲ"

@@ -1,0 +1,50 @@
+msgid ""
+msgstr "Language: bn\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "ভাষা"
+
+msgid "Apply"
+msgstr "প্রয়োগ করুন"
+
+msgid "ERP Management System"
+msgstr "ERP ব্যবস্থাপনা ব্যবস্থা"
+
+msgid "Inventory Management Dashboard"
+msgstr "মজুত ব্যবস্থাপনা ড্যাশবোর্ড"
+
+msgid "Admin Panel"
+msgstr "প্রশাসন প্যানেল"
+
+msgid "Total Products"
+msgstr "মোট পণ্য"
+
+msgid "System Status"
+msgstr "সিস্টেমের অবস্থা"
+
+msgid "Online"
+msgstr "অনলাইন"
+
+msgid "Inventory Overview"
+msgstr "মজুতের সারসংক্ষেপ"
+
+msgid "Product"
+msgstr "পণ্য"
+
+msgid "Stock"
+msgstr "মজুত"
+
+msgid "Status"
+msgstr "অবস্থা"
+
+msgid "In Stock"
+msgstr "মজুতে আছে"
+
+msgid "Low Stock"
+msgstr "কম মজুত"
+
+msgid "Out of Stock"
+msgstr "মজুতে নেই"
+
+msgid "No products available"
+msgstr "কোনো পণ্য উপলভ্য নেই"

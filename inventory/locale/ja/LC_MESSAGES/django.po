@@ -1,0 +1,50 @@
+msgid ""
+msgstr "Language: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Apply"
+msgstr "適用"
+
+msgid "ERP Management System"
+msgstr "ERP管理システム"
+
+msgid "Inventory Management Dashboard"
+msgstr "在庫管理ダッシュボード"
+
+msgid "Admin Panel"
+msgstr "管理パネル"
+
+msgid "Total Products"
+msgstr "商品総数"
+
+msgid "System Status"
+msgstr "システムの状態"
+
+msgid "Online"
+msgstr "稼働中"
+
+msgid "Inventory Overview"
+msgstr "在庫の概要"
+
+msgid "Product"
+msgstr "商品"
+
+msgid "Stock"
+msgstr "在庫数"
+
+msgid "Status"
+msgstr "状態"
+
+msgid "In Stock"
+msgstr "在庫あり"
+
+msgid "Low Stock"
+msgstr "在庫残りわずか"
+
+msgid "Out of Stock"
+msgstr "在庫切れ"
+
+msgid "No products available"
+msgstr "商品がありません"

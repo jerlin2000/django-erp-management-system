@@ -1,0 +1,50 @@
+msgid ""
+msgstr "Language: ko\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "언어"
+
+msgid "Apply"
+msgstr "적용"
+
+msgid "ERP Management System"
+msgstr "ERP 관리 시스템"
+
+msgid "Inventory Management Dashboard"
+msgstr "재고 관리 대시보드"
+
+msgid "Admin Panel"
+msgstr "관리자 패널"
+
+msgid "Total Products"
+msgstr "총 상품 수"
+
+msgid "System Status"
+msgstr "시스템 상태"
+
+msgid "Online"
+msgstr "온라인"
+
+msgid "Inventory Overview"
+msgstr "재고 개요"
+
+msgid "Product"
+msgstr "상품"
+
+msgid "Stock"
+msgstr "재고"
+
+msgid "Status"
+msgstr "상태"
+
+msgid "In Stock"
+msgstr "재고 있음"
+
+msgid "Low Stock"
+msgstr "재고 부족"
+
+msgid "Out of Stock"
+msgstr "품절"
+
+msgid "No products available"
+msgstr "등록된 상품이 없습니다"

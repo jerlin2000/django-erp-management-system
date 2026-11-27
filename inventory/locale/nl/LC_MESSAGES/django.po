@@ -1,0 +1,50 @@
+msgid ""
+msgstr "Language: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "Apply"
+msgstr "Toepassen"
+
+msgid "ERP Management System"
+msgstr "ERP-beheersysteem"
+
+msgid "Inventory Management Dashboard"
+msgstr "Dashboard voor voorraadbeheer"
+
+msgid "Admin Panel"
+msgstr "Beheerpaneel"
+
+msgid "Total Products"
+msgstr "Totaal aantal producten"
+
+msgid "System Status"
+msgstr "Systeemstatus"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Inventory Overview"
+msgstr "Voorraadoverzicht"
+
+msgid "Product"
+msgstr "Product"
+
+msgid "Stock"
+msgstr "Voorraad"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "In Stock"
+msgstr "Op voorraad"
+
+msgid "Low Stock"
+msgstr "Lage voorraad"
+
+msgid "Out of Stock"
+msgstr "Niet op voorraad"
+
+msgid "No products available"
+msgstr "Geen producten beschikbaar"

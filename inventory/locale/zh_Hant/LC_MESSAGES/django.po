@@ -1,0 +1,50 @@
+msgid ""
+msgstr "Language: zh-hant\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "語言"
+
+msgid "Apply"
+msgstr "套用"
+
+msgid "ERP Management System"
+msgstr "ERP 管理系統"
+
+msgid "Inventory Management Dashboard"
+msgstr "庫存管理儀表板"
+
+msgid "Admin Panel"
+msgstr "管理面板"
+
+msgid "Total Products"
+msgstr "商品總數"
+
+msgid "System Status"
+msgstr "系統狀態"
+
+msgid "Online"
+msgstr "上線"
+
+msgid "Inventory Overview"
+msgstr "庫存概況"
+
+msgid "Product"
+msgstr "商品"
+
+msgid "Stock"
+msgstr "庫存"
+
+msgid "Status"
+msgstr "狀態"
+
+msgid "In Stock"
+msgstr "有庫存"
+
+msgid "Low Stock"
+msgstr "庫存偏低"
+
+msgid "Out of Stock"
+msgstr "缺貨"
+
+msgid "No products available"
+msgstr "沒有可用商品"

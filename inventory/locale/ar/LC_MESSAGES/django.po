@@ -1,0 +1,50 @@
+msgid ""
+msgstr "Language: ar\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "اللغة"
+
+msgid "Apply"
+msgstr "تطبيق"
+
+msgid "ERP Management System"
+msgstr "نظام إدارة موارد المؤسسة"
+
+msgid "Inventory Management Dashboard"
+msgstr "لوحة إدارة المخزون"
+
+msgid "Admin Panel"
+msgstr "لوحة الإدارة"
+
+msgid "Total Products"
+msgstr "إجمالي المنتجات"
+
+msgid "System Status"
+msgstr "حالة النظام"
+
+msgid "Online"
+msgstr "متصل"
+
+msgid "Inventory Overview"
+msgstr "نظرة عامة على المخزون"
+
+msgid "Product"
+msgstr "المنتج"
+
+msgid "Stock"
+msgstr "المخزون"
+
+msgid "Status"
+msgstr "الحالة"
+
+msgid "In Stock"
+msgstr "متوفر في المخزون"
+
+msgid "Low Stock"
+msgstr "مخزون منخفض"
+
+msgid "Out of Stock"
+msgstr "نفد من المخزون"
+
+msgid "No products available"
+msgstr "لا توجد منتجات متاحة"

@@ -1,0 +1,50 @@
+msgid ""
+msgstr "Language: zh-hans\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "ERP Management System"
+msgstr "ERP 管理系统"
+
+msgid "Inventory Management Dashboard"
+msgstr "库存管理仪表板"
+
+msgid "Admin Panel"
+msgstr "管理面板"
+
+msgid "Total Products"
+msgstr "商品总数"
+
+msgid "System Status"
+msgstr "系统状态"
+
+msgid "Online"
+msgstr "在线"
+
+msgid "Inventory Overview"
+msgstr "库存概览"
+
+msgid "Product"
+msgstr "商品"
+
+msgid "Stock"
+msgstr "库存"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "In Stock"
+msgstr "有库存"
+
+msgid "Low Stock"
+msgstr "库存不足"
+
+msgid "Out of Stock"
+msgstr "缺货"
+
+msgid "No products available"
+msgstr "没有可用商品"

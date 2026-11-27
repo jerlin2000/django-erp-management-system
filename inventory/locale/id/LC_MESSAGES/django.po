@@ -1,0 +1,50 @@
+msgid ""
+msgstr "Language: id\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "Bahasa"
+
+msgid "Apply"
+msgstr "Terapkan"
+
+msgid "ERP Management System"
+msgstr "Sistem Manajemen ERP"
+
+msgid "Inventory Management Dashboard"
+msgstr "Dasbor Manajemen Persediaan"
+
+msgid "Admin Panel"
+msgstr "Panel Admin"
+
+msgid "Total Products"
+msgstr "Total Produk"
+
+msgid "System Status"
+msgstr "Status Sistem"
+
+msgid "Online"
+msgstr "Daring"
+
+msgid "Inventory Overview"
+msgstr "Ringkasan Persediaan"
+
+msgid "Product"
+msgstr "Produk"
+
+msgid "Stock"
+msgstr "Stok"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "In Stock"
+msgstr "Tersedia"
+
+msgid "Low Stock"
+msgstr "Stok Rendah"
+
+msgid "Out of Stock"
+msgstr "Stok Habis"
+
+msgid "No products available"
+msgstr "Tidak ada produk yang tersedia"
