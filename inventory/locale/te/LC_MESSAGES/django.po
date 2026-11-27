@@ -1,0 +1,50 @@
+msgid ""
+msgstr "Language: te\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "భాష"
+
+msgid "Apply"
+msgstr "వర్తింపజేయండి"
+
+msgid "ERP Management System"
+msgstr "ERP నిర్వహణ వ్యవస్థ"
+
+msgid "Inventory Management Dashboard"
+msgstr "నిల్వ నిర్వహణ డ్యాష్‌బోర్డ్"
+
+msgid "Admin Panel"
+msgstr "నిర్వాహక ప్యానెల్"
+
+msgid "Total Products"
+msgstr "మొత్తం ఉత్పత్తులు"
+
+msgid "System Status"
+msgstr "వ్యవస్థ స్థితి"
+
+msgid "Online"
+msgstr "ఆన్‌లైన్"
+
+msgid "Inventory Overview"
+msgstr "నిల్వల అవలోకనం"
+
+msgid "Product"
+msgstr "ఉత్పత్తి"
+
+msgid "Stock"
+msgstr "నిల్వ"
+
+msgid "Status"
+msgstr "స్థితి"
+
+msgid "In Stock"
+msgstr "నిల్వలో ఉంది"
+
+msgid "Low Stock"
+msgstr "తక్కువ నిల్వ"
+
+msgid "Out of Stock"
+msgstr "నిల్వ లేదు"
+
+msgid "No products available"
+msgstr "ఉత్పత్తులు అందుబాటులో లేవు"

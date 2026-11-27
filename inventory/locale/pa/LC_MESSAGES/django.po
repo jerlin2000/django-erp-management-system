@@ -1,0 +1,50 @@
+msgid ""
+msgstr "Language: pa\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "ਭਾਸ਼ਾ"
+
+msgid "Apply"
+msgstr "ਲਾਗੂ ਕਰੋ"
+
+msgid "ERP Management System"
+msgstr "ERP ਪ੍ਰਬੰਧਨ ਪ੍ਰਣਾਲੀ"
+
+msgid "Inventory Management Dashboard"
+msgstr "ਸਟਾਕ ਪ੍ਰਬੰਧਨ ਡੈਸ਼ਬੋਰਡ"
+
+msgid "Admin Panel"
+msgstr "ਪ੍ਰਬੰਧਕ ਪੈਨਲ"
+
+msgid "Total Products"
+msgstr "ਕੁੱਲ ਉਤਪਾਦ"
+
+msgid "System Status"
+msgstr "ਸਿਸਟਮ ਦੀ ਸਥਿਤੀ"
+
+msgid "Online"
+msgstr "ਔਨਲਾਈਨ"
+
+msgid "Inventory Overview"
+msgstr "ਸਟਾਕ ਦੀ ਝਲਕ"
+
+msgid "Product"
+msgstr "ਉਤਪਾਦ"
+
+msgid "Stock"
+msgstr "ਸਟਾਕ"
+
+msgid "Status"
+msgstr "ਸਥਿਤੀ"
+
+msgid "In Stock"
+msgstr "ਸਟਾਕ ਵਿੱਚ ਹੈ"
+
+msgid "Low Stock"
+msgstr "ਸਟਾਕ ਘੱਟ ਹੈ"
+
+msgid "Out of Stock"
+msgstr "ਸਟਾਕ ਵਿੱਚ ਨਹੀਂ"
+
+msgid "No products available"
+msgstr "ਕੋਈ ਉਤਪਾਦ ਉਪਲਬਧ ਨਹੀਂ"

@@ -1,0 +1,50 @@
+msgid ""
+msgstr "Language: ml\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "ഭാഷ"
+
+msgid "Apply"
+msgstr "പ്രയോഗിക്കുക"
+
+msgid "ERP Management System"
+msgstr "ERP മാനേജ്മെന്റ് സംവിധാനം"
+
+msgid "Inventory Management Dashboard"
+msgstr "ഇൻവെന്ററി മാനേജ്മെന്റ് ഡാഷ്ബോർഡ്"
+
+msgid "Admin Panel"
+msgstr "അഡ്മിൻ പാനൽ"
+
+msgid "Total Products"
+msgstr "ആകെ ഉൽപ്പന്നങ്ങൾ"
+
+msgid "System Status"
+msgstr "സിസ്റ്റം നില"
+
+msgid "Online"
+msgstr "ഓൺലൈൻ"
+
+msgid "Inventory Overview"
+msgstr "ഇൻവെന്ററി അവലോകനം"
+
+msgid "Product"
+msgstr "ഉൽപ്പന്നം"
+
+msgid "Stock"
+msgstr "സ്റ്റോക്ക്"
+
+msgid "Status"
+msgstr "നില"
+
+msgid "In Stock"
+msgstr "സ്റ്റോക്കിൽ ഉണ്ട്"
+
+msgid "Low Stock"
+msgstr "കുറഞ്ഞ സ്റ്റോക്ക്"
+
+msgid "Out of Stock"
+msgstr "സ്റ്റോക്കിൽ ഇല്ല"
+
+msgid "No products available"
+msgstr "ഉൽപ്പന്നങ്ങളൊന്നും ലഭ്യമല്ല"

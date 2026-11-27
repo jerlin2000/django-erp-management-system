@@ -1,0 +1,50 @@
+msgid ""
+msgstr "Language: mr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "भाषा"
+
+msgid "Apply"
+msgstr "लागू करा"
+
+msgid "ERP Management System"
+msgstr "ERP व्यवस्थापन प्रणाली"
+
+msgid "Inventory Management Dashboard"
+msgstr "साठा व्यवस्थापन डॅशबोर्ड"
+
+msgid "Admin Panel"
+msgstr "प्रशासक पॅनेल"
+
+msgid "Total Products"
+msgstr "एकूण उत्पादने"
+
+msgid "System Status"
+msgstr "प्रणालीची स्थिती"
+
+msgid "Online"
+msgstr "ऑनलाइन"
+
+msgid "Inventory Overview"
+msgstr "साठ्याचा आढावा"
+
+msgid "Product"
+msgstr "उत्पादन"
+
+msgid "Stock"
+msgstr "साठा"
+
+msgid "Status"
+msgstr "स्थिती"
+
+msgid "In Stock"
+msgstr "साठ्यात आहे"
+
+msgid "Low Stock"
+msgstr "कमी साठा"
+
+msgid "Out of Stock"
+msgstr "साठ्यात नाही"
+
+msgid "No products available"
+msgstr "कोणतीही उत्पादने उपलब्ध नाहीत"

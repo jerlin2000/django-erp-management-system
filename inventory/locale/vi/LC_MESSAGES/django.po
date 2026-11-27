@@ -1,0 +1,50 @@
+msgid ""
+msgstr "Language: vi\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+msgid "Apply"
+msgstr "Áp dụng"
+
+msgid "ERP Management System"
+msgstr "Hệ thống quản lý ERP"
+
+msgid "Inventory Management Dashboard"
+msgstr "Bảng điều khiển quản lý kho"
+
+msgid "Admin Panel"
+msgstr "Bảng quản trị"
+
+msgid "Total Products"
+msgstr "Tổng số sản phẩm"
+
+msgid "System Status"
+msgstr "Trạng thái hệ thống"
+
+msgid "Online"
+msgstr "Trực tuyến"
+
+msgid "Inventory Overview"
+msgstr "Tổng quan tồn kho"
+
+msgid "Product"
+msgstr "Sản phẩm"
+
+msgid "Stock"
+msgstr "Tồn kho"
+
+msgid "Status"
+msgstr "Trạng thái"
+
+msgid "In Stock"
+msgstr "Còn hàng"
+
+msgid "Low Stock"
+msgstr "Sắp hết hàng"
+
+msgid "Out of Stock"
+msgstr "Hết hàng"
+
+msgid "No products available"
+msgstr "Không có sản phẩm nào"

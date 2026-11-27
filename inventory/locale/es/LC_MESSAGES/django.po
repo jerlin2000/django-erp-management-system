@@ -1,0 +1,50 @@
+msgid ""
+msgstr "Language: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "ERP Management System"
+msgstr "Sistema de gestión ERP"
+
+msgid "Inventory Management Dashboard"
+msgstr "Panel de gestión de inventario"
+
+msgid "Admin Panel"
+msgstr "Panel de administración"
+
+msgid "Total Products"
+msgstr "Total de productos"
+
+msgid "System Status"
+msgstr "Estado del sistema"
+
+msgid "Online"
+msgstr "En línea"
+
+msgid "Inventory Overview"
+msgstr "Resumen del inventario"
+
+msgid "Product"
+msgstr "Producto"
+
+msgid "Stock"
+msgstr "Existencias"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "In Stock"
+msgstr "En stock"
+
+msgid "Low Stock"
+msgstr "Stock bajo"
+
+msgid "Out of Stock"
+msgstr "Agotado"
+
+msgid "No products available"
+msgstr "No hay productos disponibles"

@@ -1,0 +1,50 @@
+msgid ""
+msgstr "Language: ru\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Apply"
+msgstr "Применить"
+
+msgid "ERP Management System"
+msgstr "Система управления ERP"
+
+msgid "Inventory Management Dashboard"
+msgstr "Панель управления запасами"
+
+msgid "Admin Panel"
+msgstr "Панель администратора"
+
+msgid "Total Products"
+msgstr "Всего товаров"
+
+msgid "System Status"
+msgstr "Состояние системы"
+
+msgid "Online"
+msgstr "В сети"
+
+msgid "Inventory Overview"
+msgstr "Обзор запасов"
+
+msgid "Product"
+msgstr "Товар"
+
+msgid "Stock"
+msgstr "Остаток"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "In Stock"
+msgstr "В наличии"
+
+msgid "Low Stock"
+msgstr "Мало в наличии"
+
+msgid "Out of Stock"
+msgstr "Нет в наличии"
+
+msgid "No products available"
+msgstr "Нет доступных товаров"

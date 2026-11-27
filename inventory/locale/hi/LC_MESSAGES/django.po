@@ -1,0 +1,50 @@
+msgid ""
+msgstr "Language: hi\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "भाषा"
+
+msgid "Apply"
+msgstr "लागू करें"
+
+msgid "ERP Management System"
+msgstr "ERP प्रबंधन प्रणाली"
+
+msgid "Inventory Management Dashboard"
+msgstr "भंडार प्रबंधन डैशबोर्ड"
+
+msgid "Admin Panel"
+msgstr "प्रशासन पैनल"
+
+msgid "Total Products"
+msgstr "कुल उत्पाद"
+
+msgid "System Status"
+msgstr "प्रणाली की स्थिति"
+
+msgid "Online"
+msgstr "ऑनलाइन"
+
+msgid "Inventory Overview"
+msgstr "भंडार का अवलोकन"
+
+msgid "Product"
+msgstr "उत्पाद"
+
+msgid "Stock"
+msgstr "स्टॉक"
+
+msgid "Status"
+msgstr "स्थिति"
+
+msgid "In Stock"
+msgstr "स्टॉक में"
+
+msgid "Low Stock"
+msgstr "कम स्टॉक"
+
+msgid "Out of Stock"
+msgstr "स्टॉक में नहीं"
+
+msgid "No products available"
+msgstr "कोई उत्पाद उपलब्ध नहीं है"

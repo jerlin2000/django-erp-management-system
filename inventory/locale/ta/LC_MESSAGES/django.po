@@ -1,0 +1,50 @@
+msgid ""
+msgstr "Language: ta\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "மொழி"
+
+msgid "Apply"
+msgstr "பயன்படுத்து"
+
+msgid "ERP Management System"
+msgstr "ERP மேலாண்மை அமைப்பு"
+
+msgid "Inventory Management Dashboard"
+msgstr "சரக்கு மேலாண்மை முகப்புப் பலகை"
+
+msgid "Admin Panel"
+msgstr "நிர்வாகப் பலகை"
+
+msgid "Total Products"
+msgstr "மொத்தப் பொருட்கள்"
+
+msgid "System Status"
+msgstr "அமைப்பின் நிலை"
+
+msgid "Online"
+msgstr "இயக்கத்தில்"
+
+msgid "Inventory Overview"
+msgstr "சரக்குக் கண்ணோட்டம்"
+
+msgid "Product"
+msgstr "பொருள்"
+
+msgid "Stock"
+msgstr "இருப்பு"
+
+msgid "Status"
+msgstr "நிலை"
+
+msgid "In Stock"
+msgstr "இருப்பில் உள்ளது"
+
+msgid "Low Stock"
+msgstr "குறைந்த இருப்பு"
+
+msgid "Out of Stock"
+msgstr "இருப்பில் இல்லை"
+
+msgid "No products available"
+msgstr "பொருட்கள் எதுவும் இல்லை"

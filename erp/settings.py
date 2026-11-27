@@ -6,7 +6,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['localhost','127.0.0.1']
 ROOT_URLCONF = 'erp.urls'
 INSTALLED_APPS = ['django.contrib.admin','django.contrib.auth','django.contrib.contenttypes','django.contrib.sessions','django.contrib.messages','django.contrib.staticfiles','inventory']
-MIDDLEWARE = ['django.middleware.security.SecurityMiddleware','django.contrib.sessions.middleware.SessionMiddleware','django.middleware.common.CommonMiddleware','django.middleware.csrf.CsrfViewMiddleware','django.contrib.auth.middleware.AuthenticationMiddleware','django.contrib.messages.middleware.MessageMiddleware','django.middleware.clickjacking.XFrameOptionsMiddleware']
+MIDDLEWARE = ['django.middleware.security.SecurityMiddleware','django.contrib.sessions.middleware.SessionMiddleware','django.middleware.locale.LocaleMiddleware','django.middleware.common.CommonMiddleware','django.middleware.csrf.CsrfViewMiddleware','django.contrib.auth.middleware.AuthenticationMiddleware','django.contrib.messages.middleware.MessageMiddleware','django.middleware.clickjacking.XFrameOptionsMiddleware']
 TEMPLATES = [{'BACKEND':'django.template.backends.django.DjangoTemplates','APP_DIRS':True,'OPTIONS':{'context_processors':['django.template.context_processors.request','django.contrib.auth.context_processors.auth','django.contrib.messages.context_processors.messages']}}]
 DATABASES = {'default': {'ENGINE':'django.db.backends.sqlite3','NAME':BASE_DIR/'db.sqlite3'}}
 if os.getenv('POSTGRES_DB'):
@@ -14,3 +14,34 @@ if os.getenv('POSTGRES_DB'):
 STATIC_URL = '/static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 USE_TZ = True
+
+LANGUAGE_CODE = 'en'
+LANGUAGES = [
+    ('en', 'English'),
+    ('ta', 'தமிழ்'),
+    ('ml', 'മലയാളം'),
+    ('hi', 'हिन्दी'),
+    ('te', 'తెలుగు'),
+    ('kn', 'ಕನ್ನಡ'),
+    ('fr', 'Français'),
+    ('es', 'Español'),
+    ('de', 'Deutsch'),
+    ('ar', 'العربية'),
+    ('ja', '日本語'),
+    ('ko', '한국어'),
+    ('ru', 'Русский'),
+    ('pt', 'Português'),
+    ('zh-hans', '简体中文'),
+    ('zh-hant', '繁體中文'),
+    ('bn', 'বাংলা'),
+    ('mr', 'मराठी'),
+    ('gu', 'ગુજરાતી'),
+    ('pa', 'ਪੰਜਾਬੀ'),
+    ('ur', 'اردو'),
+    ('id', 'Bahasa Indonesia'),
+    ('it', 'Italiano'),
+    ('tr', 'Türkçe'),
+    ('nl', 'Nederlands'),
+    ('vi', 'Tiếng Việt'),
+]
+LANGUAGE_COOKIE_SAMESITE = 'Lax'

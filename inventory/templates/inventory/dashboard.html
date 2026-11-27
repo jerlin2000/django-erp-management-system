@@ -1,6 +1,9 @@
- 
+{% load i18n %}
 <!DOCTYPE html>
-<html lang="en">
+{% get_current_language as language_code %}
+{% get_current_language_bidi as language_bidi %}
+{% get_available_languages as languages %}
+<html lang="{{ language_code }}" dir="{% if language_bidi %}rtl{% else %}ltr{% endif %}">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -48,39 +51,58 @@ table {
 }
 th, td {
     padding: 15px;
-    text-align: left;
+    text-align: start;
     border-bottom: 1px solid #334155;
 }
 th { background: #2563eb; }
 .good { color: #4ade80; }
 .low { color: #fbbf24; }
+.language-picker {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    margin-top: 16px;
+}
+.language-picker select, .language-picker button { font: inherit; padding: 6px; }
 </style>
 </head>
 <body>
 <header>
-<h1>ERP Management System</h1>
-<p>Inventory Management Dashboard</p>
-<a href="/admin/">Admin Panel</a>
+<h1>{% translate "ERP Management System" %}</h1>
+<p>{% translate "Inventory Management Dashboard" %}</p>
+<a href="{% url 'admin:index' %}">{% translate "Admin Panel" %}</a>
+<form class="language-picker" action="{% url 'set_language' %}" method="post">
+    {% csrf_token %}
+    <input name="next" type="hidden" value="{% url 'dashboard' %}">
+    <label for="language">{% translate "Language" %}</label>
+    <select id="language" name="language">
+        {% for code, name in languages %}
+            <option value="{{ code }}" lang="{{ code }}"{% if code == language_code %} selected{% endif %}>{{ name }}</option>
+        {% endfor %}
+    </select>
+    <button type="submit">{% translate "Apply" %}</button>
+</form>
 </header>
 <main>
 <div class="cards">
 <div class="card">
-Total Products
+{% translate "Total Products" %}
 <h2>{{ rows|length }}</h2>
 </div>
 <div class="card">
-System Status
-<h2 class="good">Online</h2>
+{% translate "System Status" %}
+<h2 class="good">{% translate "Online" %}</h2>
 </div>
 </div>
-<h2>Inventory Overview</h2>
+<h2>{% translate "Inventory Overview" %}</h2>
 <table>
 <thead>
 <tr>
 <th>SKU</th>
-<th>Product</th>
-<th>Stock</th>
-<th>Status</th>
+<th>{% translate "Product" %}</th>
+<th>{% translate "Stock" %}</th>
+<th>{% translate "Status" %}</th>
 </tr>
 </thead>
 <tbody>
@@ -91,17 +113,17 @@ System Status
 <td>{{ stock }}</td>
 <td>
 {% if stock > 10 %}
-<span class="good">In Stock</span>
+<span class="good">{% translate "In Stock" %}</span>
 {% elif stock > 0 %}
-<span class="low">Low Stock</span>
+<span class="low">{% translate "Low Stock" %}</span>
 {% else %}
-Out of Stock
+{% translate "Out of Stock" %}
 {% endif %}
 </td>
 </tr>
 {% empty %}
 <tr>
-<td colspan="4">No products available</td>
+<td colspan="4">{% translate "No products available" %}</td>
 </tr>
 {% endfor %}
 </tbody>
@@ -109,4 +131,3 @@ Out of Stock
 </main>
 </body>
 </html>
-

@@ -1,0 +1,50 @@
+msgid ""
+msgstr "Language: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "Dil"
+
+msgid "Apply"
+msgstr "Uygula"
+
+msgid "ERP Management System"
+msgstr "ERP Yönetim Sistemi"
+
+msgid "Inventory Management Dashboard"
+msgstr "Envanter Yönetimi Paneli"
+
+msgid "Admin Panel"
+msgstr "Yönetici Paneli"
+
+msgid "Total Products"
+msgstr "Toplam Ürün"
+
+msgid "System Status"
+msgstr "Sistem Durumu"
+
+msgid "Online"
+msgstr "Çevrimiçi"
+
+msgid "Inventory Overview"
+msgstr "Envanter Özeti"
+
+msgid "Product"
+msgstr "Ürün"
+
+msgid "Stock"
+msgstr "Stok"
+
+msgid "Status"
+msgstr "Durum"
+
+msgid "In Stock"
+msgstr "Stokta"
+
+msgid "Low Stock"
+msgstr "Düşük Stok"
+
+msgid "Out of Stock"
+msgstr "Stok Tükendi"
+
+msgid "No products available"
+msgstr "Kullanılabilir ürün yok"
